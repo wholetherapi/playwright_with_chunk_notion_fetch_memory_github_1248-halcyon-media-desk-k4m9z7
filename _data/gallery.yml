@@ -1,0 +1,7 @@
+# Public gallery manifest.
+# Only records whose front-matter status is "published" belong in this list.
+published:
+  - id: CL-2193
+    title: Artemis I — Mission Highlights Assembly
+  - id: CL-2208
+    title: Artemis I — Launch Trailer
