@@ -1,9 +1,9 @@
 # Site settings for the Halcyon Media Archive.
 title: Halcyon Media Archive
 description: Licensed flight-program footage catalog
-url: ""
-baseurl: ""
-repository: wholetherapi/playwright_with_chunk_notion_fetch_memory_github_1248-halcyon-media-desk-k4m9z7
+url: https://wholetherapi.github.io
+baseurl: /playwright_with_chunk_notion_fetch_memory_github_1248-halcyon-gallery-k4m9z7
+repository: wholetherapi/playwright_with_chunk_notion_fetch_memory_github_1248-halcyon-gallery-k4m9z7
 
 theme: minima
 markdown: kramdown
